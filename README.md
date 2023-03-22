@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/JSMC14/Portafolio/blob/main/img?raw=true)
+![Imagen decorativa de tu perfil](https://github.com/JSMC14/jsmc14/blob/main/img?raw=true)
 <h3 align="center">A passionate system technologist, I specialize in computer maintenance, fullstack programming, server administration and network auditing</h3>
 
 - 👨‍💻 All of my projects are available at [https://jsmc14.github.io/Portafolio/](https://jsmc14.github.io/Portafolio/)
